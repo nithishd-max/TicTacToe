@@ -1,6 +1,6 @@
 {
   "homepage": "https://nithishd-max.github.io/TicTacToe",
-  "name": "wb2",
+  "name": "four_tictactoe",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
